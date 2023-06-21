@@ -6,7 +6,7 @@ This repository contains a web application that allows users to dynamically add 
 
 ## Features
 
-- Users can add new rows to the table by clicking the "Add" button.
+- Users can add new new table by clicking on the "Add" button and new rows to the table by clicking the "+" button.
 - Each row contains input fields for name, email, mobile, address, quantity, unit price, and total.
 - The total field is automatically calculated based on the quantity and unit price values.
 - Users can select options for each table, and the selected option is stored in the backend.
