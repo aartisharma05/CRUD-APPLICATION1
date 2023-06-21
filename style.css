@@ -1,0 +1,31 @@
+.button {
+    margin: 10px;
+}
+
+#savecontainer {
+    padding: 15px;
+    margin: 11px;
+}
+
+.striped-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.striped-table thead th {
+    background-color: #f2f2f2;
+}
+
+.striped-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.striped-table tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+.striped-table td,
+.striped-table th {
+    padding: 8px;
+    border: 1px solid #dddddd;
+}
